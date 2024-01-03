@@ -1,4 +1,5 @@
 # furniture
+<<<<<<< HEAD
 
 Project Type: Landing Page for Furniture
 Tools Used: HTML, CSS, JavaScript
@@ -11,3 +12,7 @@ To enrich the user journey, I incorporated JavaScript functionalities, leveragin
 
 https://amr-ibrahim7.github.io/furniture/
 created by Amr Ibrahim.
+=======
+https://amr-ibrahim7.github.io/furniture/
+ created by Amr Ibrahim.
+>>>>>>> aff46c848bb61b885586df390b21a3d9260bdf4d
