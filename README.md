@@ -10,5 +10,6 @@ The landing page is thoughtfully designed, ensuring seamless responsiveness acro
 To enrich the user journey, I incorporated JavaScript functionalities, leveraging popular libraries such as jQuery and Bootstrap. The inclusion of the Swiper library brought a touch of modernity, enabling smooth and eye-catching sliders to showcase multiple product images. jQuery, known for its versatility, enhanced the interactivity of the page, ensuring a dynamic and engaging experience for users.
 
 =======
+
 https://amr-ibrahim7.github.io/furniture/
 created by Amr Ibrahim.
